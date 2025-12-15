@@ -1,7 +1,9 @@
 Privacy Policy
 
 Effective Date: 2025
+
 Application Name: InfoSeek
+
 Developer: Vishwajeet Kumar Vaybhav
 
 1. Introduction:
