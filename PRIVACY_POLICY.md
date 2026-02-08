@@ -1,6 +1,6 @@
 Privacy Policy
 
-Effective Date: 2025
+Last updated: January 2026
 
 Application Name: InfoSeek
 
@@ -13,9 +13,9 @@ By using InfoSeek, you agree to the practices described in this policy.
 2. Information We Collect:
 InfoSeek does not collect, transmit, or sell any personal data.
 The application only stores the following information locally on your device:
-Search queries entered by the user
-Search mode used (Summary or Detailed)
-Date and time of searches
+-Search queries entered by the user
+-Search mode used (Summary or Detailed)
+-Date and time of searches
 User preferences such as:
 -Theme (light or dark)
 -Font size
